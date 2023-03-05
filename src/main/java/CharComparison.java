@@ -1,5 +1,5 @@
 public class CharComparison {
-    /**
+    /*
      * Given an array of char, determine if the array A belongs to the left or to the right of char array B lexigraphically.
      * That means its position in a dictionary, eg:
      * cat < dog < mouse
